@@ -1,0 +1,13 @@
+body{
+    background-image:url('wallpaperflare.com_wallpaper.jpg');
+    background-size: cover;
+}
+h1{
+    color: rgb(247, 22, 59);
+    
+}
+h2{
+    color:yellow;
+    margin-left:5%;
+    text-shadow: 2px 2px rgb(12, 1, 1);
+}
